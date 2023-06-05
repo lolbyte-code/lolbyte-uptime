@@ -18,4 +18,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  themeUrl: https://raw.githubusercontent.com/lolbyte-code/lolbyte-uptime/097abde8a396ec8c287d9eb6d2b6074d642dd63f/assets/my-custom-theme.css
+  theme: ocean
