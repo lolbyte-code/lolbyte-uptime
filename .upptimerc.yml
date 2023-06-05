@@ -18,4 +18,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: ocean
+  theme: night
