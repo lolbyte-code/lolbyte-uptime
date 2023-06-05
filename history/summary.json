@@ -2,7 +2,7 @@
   {
     "name": "LolByte",
     "url": "https://lolbyte.me/health",
-    "icon": "https://icons.duckduckgo.com/ip3/lolbyte.me.ico",
+    "icon": "https://raw.githubusercontent.com/lolbyte-code/lolbyte/f19cacd9ad72193cbe8e2d28f2aed644ca337731/img/lolbyteIcon.png",
     "slug": "lol-byte",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 392,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 392,
+    "time": 405,
+    "timeDay": 405,
+    "timeWeek": 405,
+    "timeMonth": 405,
+    "timeYear": 405,
     "dailyMinutesDown": {}
   }
 ]
