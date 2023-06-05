@@ -2,7 +2,7 @@
   {
     "name": "LolByte",
     "url": "https://lolbyte.me/health",
-    "icon": "https://raw.githubusercontent.com/lolbyte-code/lolbyte/f19cacd9ad72193cbe8e2d28f2aed644ca337731/img/lolbyteIcon.png",
+    "icon": "https://raw.githubusercontent.com/lolbyte-code/lolbyte-service/14f187399868b8bc95467e3509d9da3160a0f077/src/main/resources/public/badger/favicon.ico",
     "slug": "lol-byte",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 388,
-    "timeWeek": 388,
-    "timeMonth": 388,
-    "timeYear": 388,
+    "time": 393,
+    "timeDay": 393,
+    "timeWeek": 393,
+    "timeMonth": 393,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   }
 ]
