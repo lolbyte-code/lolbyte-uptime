@@ -9,7 +9,7 @@ sites:
 
 status-website:
   baseUrl: /lolbyte-uptime
-  logoUrl: https://raw.githubusercontent.com/lolbyte-code/lolbyte-react-native/bf06c7da778a34ddab1fbf504965a5e13ebbd909/src/assets/svg/logo.svg
+  logoUrl: https://raw.githubusercontent.com/lolbyte-code/lolbyte-react-native/27c761ceb3ad644eefe5e2b133c7bf92a75dafbd/src/assets/svg/logo.svg
   name: LolByte Uptime
   introTitle: "**LolByte** uptime monitor and status page"
   introMessage: This status page uses **real-time** data from this [GitHub repository](https://github.com/lolbyte-code/lolbyte-uptime).
