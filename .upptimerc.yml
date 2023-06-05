@@ -18,5 +18,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: night
   themeUrl: https://raw.githubusercontent.com/lolbyte-code/lolbyte-uptime/master/assets/lolbyte.css
