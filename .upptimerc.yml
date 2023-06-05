@@ -5,6 +5,7 @@ repo: lolbyte-uptime
 sites:
   - name: LolByte
     url: https://lolbyte.me/health
+    icon: https://raw.githubusercontent.com/lolbyte-code/lolbyte/f19cacd9ad72193cbe8e2d28f2aed644ca337731/img/lolbyteIcon.png
 
 status-website:
   baseUrl: /lolbyte-uptime
@@ -17,4 +18,4 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  theme: dark
+  theme: night
