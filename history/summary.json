@@ -4,18 +4,19 @@
     "url": "https://lolbyte.me/health",
     "icon": "https://raw.githubusercontent.com/lolbyte-code/lolbyte-service/14f187399868b8bc95467e3509d9da3160a0f077/src/main/resources/public/badger/favicon.ico",
     "slug": "lol-byte",
-    "status": "up",
-    "uptime": "99.02%",
+    "status": "down",
+    "uptime": "99.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
     "time": 438,
     "timeDay": 433,
     "timeWeek": 460,
     "timeMonth": 438,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2023-06-22": 0,
       "2023-06-05": 241
     }
   }
