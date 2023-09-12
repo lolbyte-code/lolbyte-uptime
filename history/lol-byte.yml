@@ -1,7 +1,7 @@
 url: https://lolbyte.me/health
-status: up
-code: 200
-responseTime: 511
-lastUpdated: 2023-09-11T23:08:17.904Z
+status: down
+code: 502
+responseTime: 1719
+lastUpdated: 2023-09-12T04:46:45.304Z
 startTime: 2023-06-05T00:24:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
