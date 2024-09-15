@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/lolbyte-code/lolbyte-service/14f187399868b8bc95467e3509d9da3160a0f077/src/main/resources/public/badger/favicon.ico",
     "slug": "lol-byte",
     "status": "up",
-    "uptime": "37.56%",
+    "uptime": "37.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "89.68%",
-    "uptimeYear": "32.88%",
+    "uptimeYear": "33.15%",
     "time": 446,
-    "timeDay": 610,
-    "timeWeek": 466,
-    "timeMonth": 458,
-    "timeYear": 448,
+    "timeDay": 606,
+    "timeWeek": 488,
+    "timeMonth": 462,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2024-09-07": 161,
       "2024-09-06": 1440,
@@ -263,8 +263,7 @@
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
-      "2023-09-17": 1440,
-      "2023-09-16": 1440
+      "2023-09-17": 1440
     }
   }
 ]
