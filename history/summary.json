@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/lolbyte-code/lolbyte-service/14f187399868b8bc95467e3509d9da3160a0f077/src/main/resources/public/badger/favicon.ico",
     "slug": "lol-byte",
     "status": "up",
-    "uptime": "62.35%",
+    "uptime": "62.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 523,
-    "timeWeek": 480,
-    "timeMonth": 436,
-    "timeYear": 452,
+    "time": 464,
+    "timeDay": 393,
+    "timeWeek": 473,
+    "timeMonth": 434,
+    "timeYear": 451,
     "dailyMinutesDown": {}
   }
 ]
